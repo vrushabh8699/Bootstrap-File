@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+</head>
+<body>
+    <h2 class="text-center bg-success">ALL STUDENT</h2><br />
+    <table class="table text-capitalize text-center table-hover table-bordered">
+        <thead class="table-info">
+            <tr>
+                <th>Roll no</th>
+                <th>Name</th>
+                <th>City</th>
+            </tr>
+        </thead>
+        <tbody class="table-dark">
+            <tr>
+                <td>101</td>
+                <td>vrushbh</td>
+                <td>pune</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>sushant</td>
+                <td>pune</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>varsh</td>
+                <td>mubai</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>akshy</td>
+                <td>satara</td>
+            </tr>
+            <tr>
+                <td>105</td>
+                <td>hemant</td>
+                <td>ytl</td>
+            </tr>
+            <tr>
+                <td>106</td>
+                <td>ashol</td>
+                <td>amt</td>
+            </tr>
+        </tbody>
+    </table>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+</body>
+</html>
