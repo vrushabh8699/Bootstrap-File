@@ -1,0 +1,90 @@
+h3{
+    font-size: x-large;
+ word-spacing: 40px;
+ padding-left: 50px;
+ padding-top: 20px;
+ /* border-style: solid; */
+ position: absolute;
+ padding-bottom: 10px;
+ margin-left: 780px;
+ margin-right: 0px;background-color: rgba(76, 0, 130, 0.466);
+
+
+}
+body{
+    background: url(https://wallpapercave.com/wp/wp4966981.jpg);
+}
+label:hover{
+    background-color: rgb(134, 15, 98);
+    color: white;
+    font-size: x-large;
+   
+}
+h4{
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    border-style: double;
+    border-collapse: separate;
+}
+p{
+   position: absolute;
+   right: 680px;
+   top: 105px;
+   border-style: groove;
+   border-color: rgba(25, 157, 180, 0.979);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+  /* font-style: Satisfy; */
+  font-family: 'Dancing Script', cursive;
+  color: rgb(27, 4, 19);
+  background-color: rgba(31, 104, 109, 0.507);
+
+}
+a{
+    padding-left: 18px;
+}
+
+.container{
+     border-style: solid;
+    border-color: royalblue;
+    position: absolute;
+    top: 310px;
+    left: 1200px;
+    padding: 2px 2px;
+    width: 18%;
+    height: 380px;
+    border-radius: 2px;
+   padding: 20px 20px;
+   }
+   .form-group input{
+       text-align: center;
+       padding-left: 30px;
+       padding-right: 30px;
+       margin-left: 10px;
+       margin-top: 27px;
+       margin-bottom: 10px;
+      
+       font-size: 16px;
+   }
+   .btn{
+       margin-left: 100px;
+       margin-top: 25px;
+       display: block;
+       width: 140px;
+       margin-left: 70px;
+   }
+   div{
+       background-color: rgba(26, 22, 29, 0.479);
+   }
+   h2{
+       font-style: italic;
+       color: rgb(31, 212, 113);
+       padding-left: 22px;
+       font-size: 25px;
+   }

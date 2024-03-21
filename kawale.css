@@ -1,0 +1,20 @@
+p{
+    background-color: #b061aa82;;
+    font-family: sans-serif;
+}
+h3{
+    background-color: rgba(146, 29, 146, 0.575);
+    border-style: double;
+    border-color: darkgoldenrod;
+    border-width: 9px;
+    margin-right: 700px;
+}
+body{
+    background-color: rgba(65, 187, 161, 0.562);
+}
+div{
+    background-color: darkgreen;
+}
+.text-success{
+    color: green;
+}
